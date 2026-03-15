@@ -1,0 +1,188 @@
+{
+  "akiec": {
+    "name": "Actinic Keratosis",
+    "risk_level": "Pre-cancerous",
+    "description": "Actinic keratosis is a rough, scaly patch on the skin caused by years of sun exposure. It is considered a pre-cancerous condition because it may develop into squamous cell carcinoma if untreated.",
+    "symptoms": [
+      "Rough or scaly skin patch",
+      "Red or brown colored lesion",
+      "Itching or burning sensation",
+      "Small crusted area on sun-exposed skin"
+    ],
+    "causes": [
+      "Long-term sun exposure",
+      "Ultraviolet radiation damage",
+      "Fair skin with poor UV protection"
+    ],
+    "prevention": [
+      "Use sunscreen SPF 30+ daily",
+      "Avoid excessive sun exposure",
+      "Wear protective clothing and hats"
+    ],
+    "treatment": [
+      "Cryotherapy (freezing the lesion)",
+      "Topical chemotherapy creams",
+      "Laser therapy",
+      "Photodynamic therapy"
+    ],
+    "doctor_visit": "Consult a dermatologist if the lesion changes size, color, or begins to bleed."
+  },
+
+  "bcc": {
+    "name": "Basal Cell Carcinoma",
+    "risk_level": "Cancerous",
+    "description": "Basal cell carcinoma is the most common form of skin cancer. It grows slowly and rarely spreads, but it can damage nearby tissues if untreated.",
+    "symptoms": [
+      "Shiny bump on the skin",
+      "Flat flesh-colored lesion",
+      "Bleeding or scabbing sore that heals and returns"
+    ],
+    "causes": [
+      "Chronic sun exposure",
+      "Tanning beds",
+      "UV radiation damage"
+    ],
+    "prevention": [
+      "Regular sunscreen use",
+      "Avoid tanning beds",
+      "Routine skin examinations"
+    ],
+    "treatment": [
+      "Surgical removal",
+      "Mohs surgery",
+      "Radiation therapy",
+      "Topical medications"
+    ],
+    "doctor_visit": "Immediate dermatological evaluation is recommended for any suspicious lesion."
+  },
+
+  "bkl": {
+    "name": "Benign Keratosis",
+    "risk_level": "Low",
+    "description": "Benign keratosis includes harmless skin growths such as seborrheic keratosis and solar lentigo. They are non-cancerous and often appear with age.",
+    "symptoms": [
+      "Brown or black raised spots",
+      "Waxy or wart-like appearance",
+      "Rough textured surface"
+    ],
+    "causes": [
+      "Aging skin",
+      "Genetic predisposition",
+      "Sun exposure"
+    ],
+    "prevention": [
+      "Sun protection",
+      "Routine skin monitoring"
+    ],
+    "treatment": [
+      "Usually no treatment required",
+      "Cryotherapy if cosmetic removal desired",
+      "Laser removal"
+    ],
+    "doctor_visit": "Consult a doctor if the lesion changes rapidly or becomes painful."
+  },
+
+  "df": {
+    "name": "Dermatofibroma",
+    "risk_level": "Very Low",
+    "description": "Dermatofibromas are common benign skin nodules often found on the legs or arms. They are harmless and rarely require treatment.",
+    "symptoms": [
+      "Small firm bump under the skin",
+      "Brown or reddish color",
+      "May feel tender when pressed"
+    ],
+    "causes": [
+      "Minor skin injury",
+      "Insect bites",
+      "Hair follicle inflammation"
+    ],
+    "prevention": [
+      "Avoid repeated skin trauma",
+      "Maintain skin hygiene"
+    ],
+    "treatment": [
+      "Usually none required",
+      "Surgical removal if painful or bothersome"
+    ],
+    "doctor_visit": "Seek medical advice if the lesion grows rapidly."
+  },
+
+  "mel": {
+    "name": "Melanoma",
+    "risk_level": "Highly Cancerous",
+    "description": "Melanoma is the most dangerous form of skin cancer. It develops in the pigment-producing cells and can spread rapidly if untreated.",
+    "symptoms": [
+      "Irregular shaped mole",
+      "Multiple colors in a single mole",
+      "Diameter larger than 6mm",
+      "Changing size or shape"
+    ],
+    "causes": [
+      "UV radiation",
+      "Genetic predisposition",
+      "History of sunburns"
+    ],
+    "prevention": [
+      "Use sunscreen regularly",
+      "Avoid tanning beds",
+      "Regular skin checks"
+    ],
+    "treatment": [
+      "Surgical excision",
+      "Immunotherapy",
+      "Targeted therapy",
+      "Radiation therapy"
+    ],
+    "doctor_visit": "Urgent dermatological consultation is required if melanoma is suspected."
+  },
+
+  "nv": {
+    "name": "Melanocytic Nevus",
+    "risk_level": "Low",
+    "description": "Melanocytic nevi are common moles that are generally harmless but should be monitored for changes.",
+    "symptoms": [
+      "Round or oval mole",
+      "Uniform color",
+      "Stable size over time"
+    ],
+    "causes": [
+      "Genetic factors",
+      "Sun exposure"
+    ],
+    "prevention": [
+      "Use sun protection",
+      "Monitor moles regularly"
+    ],
+    "treatment": [
+      "Usually no treatment needed",
+      "Removal if cosmetic concern"
+    ],
+    "doctor_visit": "Consult a doctor if the mole changes shape, color, or size."
+  },
+
+  "vasc": {
+    "name": "Vascular Lesion",
+    "risk_level": "Low",
+    "description": "Vascular lesions are abnormalities in blood vessels that appear as red or purple spots on the skin.",
+    "symptoms": [
+      "Red or purple skin patches",
+      "Visible blood vessels",
+      "May blanch when pressed"
+    ],
+    "causes": [
+      "Blood vessel malformation",
+      "Genetic factors",
+      "Skin trauma"
+    ],
+    "prevention": [
+      "Avoid skin trauma",
+      "Maintain healthy skin care"
+    ],
+    "treatment": [
+      "Laser therapy",
+      "Sclerotherapy",
+      "Observation if harmless"
+    ],
+    "doctor_visit": "Seek medical advice if lesions grow rapidly or bleed."
+  }
+}
